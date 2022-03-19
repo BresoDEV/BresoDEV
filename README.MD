@@ -6,10 +6,7 @@
 <p>Hello, welcome to my Github profile, spend a lot os my time creating games stuff and other things. 
 Some links of my projects and docs:</p>
 
-
-<br >
-
-<p><a href=http://bresodev.myartsonline.com/"> My projects documents </a></p> <br >
-<p><a href=https://twitter.com/breso_dev"> My Twitter </a></p> <br >
-<p><a href=https://www.youtube.com/channel/UC8F4yZMyOemwed_xcYvchbw"> My YT Chanel </a></p> <br >
-<p><a href=https://discord.com/channels/@me"> Discord: BresoDEV#2868 </a></p> <br >
+<p><a href=http://bresodev.myartsonline.com/"> My projects documents </a></p>
+<p><a href=https://twitter.com/breso_dev"> My Twitter </a></p>
+<p><a href=https://www.youtube.com/channel/UC8F4yZMyOemwed_xcYvchbw"> My YT Chanel </a></p>
+<p><a href=https://discord.com/channels/@me"> Discord: BresoDEV#2868 </a></p>
